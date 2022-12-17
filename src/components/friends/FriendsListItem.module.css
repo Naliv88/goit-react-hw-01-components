@@ -1,0 +1,27 @@
+.status {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+;
+
+.statusOnline {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+};
+
+.item{
+    display: flex;
+        flex-direction: row;
+        align-items: center;
+        box-shadow: 2px 2px 2px grey;
+        width: 240px;
+        background-color: #ffffff;
+        margin-top: 10px;
+        padding: 10px 30px 10px 20px;
+        border-radius: 5px;
+}
